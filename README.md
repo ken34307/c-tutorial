@@ -1,2 +1,4 @@
-# c-tutorial
-Tutorial post for youtube tutorials
+# C-tutorial
+Tutorial post for youtube tutorial 
+
+
